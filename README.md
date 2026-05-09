@@ -11,8 +11,8 @@
 
 - 🎓 Pursuing **Diploma in Computer Science Engineering**
 - 🏅 Certified in **AI & ML** from **NIELIT (National Institute of Electronics & IT)**
-- 🔭 Currently working on improving my **Python projects** and learning **web development**
-- 🌱 Currently learning **Flask**, **SQL**, and **Data Analysis with Pandas**
+- 🔭 Currently working on improving my **Python projects** and learning **Data Science**
+- 🌱 Currently learning  **SQL**, and **Data Analysis with Pandas**
 - 💡 I love building real-world CLI tools that solve everyday problems
 - 📍 Based in **Uttar Pradesh, India**
 - 📫 Reach me at: **priyanshupatel.tech@gmail.com**
@@ -28,14 +28,12 @@
 
 **Tools & Platforms:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 **Currently Learning:**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -85,5 +83,5 @@
 ---
 
 <p align="center">
-  <i>"Code karo, seekho, aur roz thoda better bano. 🚀"</i>
+  <i>"Thanks You"</i>
 </p>
