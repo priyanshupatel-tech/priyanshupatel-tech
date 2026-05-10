@@ -47,7 +47,7 @@
 | [💸 Expense Tracker](https://github.com/priyanshupatel-tech/Expence_Tracker) | Track daily expenses with category-wise filtering & JSON storage | Python, JSON |
 | [📚 Library Management System](https://github.com/priyanshupatel-tech/Library_Managment_System) | Manage books with add, search, delete operations | Python, File Handling |
 | [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | Simulates ATM operations — deposit, withdraw, balance check | Python |
-| [🎓 Student Grade Calculator](https://github.com/priyanshupatel-tech/Grade_System) | Calculates total marks, percentage & letter grade | Python |
+| [🎓 Student Data Analysis](https://github.com/priyanshupatel-tech/Student-Data-Analysis) |Student Data Analysis that reads a student dataset, cleans the data, performs city-wise analysis, and generates a detailed report card — all from a CSV file | Python |
 | [📅 Date Validator](https://github.com/priyanshupatel-tech/Date-Validator-Python) | Validates any date with leap year logic | Python |
 | [📒 Contact Book](https://github.com/priyanshupatel-tech/Contact_Book-Python-) | Full CRUD contact manager with persistent JSON storage | Python, JSON |
 
