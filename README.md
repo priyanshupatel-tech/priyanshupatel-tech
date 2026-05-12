@@ -2,7 +2,7 @@
  
 <p align="center">
   <a href="https://github.com/priyanshupatel-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Developer+%7C+Problem+Solver;📊+Data+Analysis+with+Pandas+%26+NumPy;🚀+Building+One+Project+at+a+Time!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Developer+%7C+Problem Solver;📊+Data+Analysis+with+Pandas+%26+NumPy;🚀+Building+One+Project+at+a+Time!" alt="Typing SVG" />
   </a>
 </p>
 ---
@@ -43,7 +43,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
 ### 🌱 Currently Learning
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
  
@@ -53,7 +52,6 @@
  
 | 🔍 Area | 📚 What I'm Learning |
 |---------|----------------------|
-| 🌐 Web Development | Flask & Building Web Apps |
 | 📊 Data Analysis | Advanced Pandas & EDA |
 | 🗄️ Database | SQL & SQLite with Python |
 | 🤖 AI/ML | Applying NIELIT concepts in projects |
