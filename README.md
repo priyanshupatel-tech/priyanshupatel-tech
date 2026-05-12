@@ -1,9 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Priyanshu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20NIELIT%20AI%2FML%20Certified%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=18)](https://github.com/priyanshupatel-tech)
  
 <p align="center">
-  <a href="https://github.com/priyanshupatel-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Developer+%7C+Problem Solver;📊+Data+Analysis+with+Pandas+%26+NumPy;🚀+Building+One+Project+at+a+Time!" alt="Typing SVG" />
-  </a>
+  🐍 Python Developer &nbsp;|&nbsp; 📊 Data Analysis with Pandas & NumPy &nbsp;|&nbsp; 🚀 Building One Project at a Time!
 </p>
 ---
  
