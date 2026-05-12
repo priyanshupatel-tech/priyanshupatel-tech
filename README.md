@@ -20,7 +20,7 @@
     <td>💼 <b>Role</b></td>
     <td>Python Developer & Aspiring Data Analyst</td>
     <td>🌱 <b>Currently</b></td>
-    <td>Learning Flask, SQL & Data Visualization</td>
+    <td>Learning SQL & Data Visualization</td>
   </tr>
   <tr>
     <td>❤️ <b>Passion</b></td>
@@ -119,4 +119,4 @@
 <p align="center">
   <i>"Think first, then write, then debug — and then feel proud!" 🚀"</i>
 </p>
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/priyanshupatel-tech)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
