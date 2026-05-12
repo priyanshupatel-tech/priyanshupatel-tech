@@ -9,42 +9,38 @@
  
 ## 🧑‍💻 About Me
  
-```python
-class PriyanshuPatel:
-    username    = "priyanshupatel-tech"
-    role        = "Python Developer & Aspiring Data Analyst"
-    passion     = "Turning ideas into working Python projects"
-    location    = "Uttar Pradesh, India 📍"
-    currently   = "Learning Flask, SQL & Data Visualization"
- 
-    skills      = ["Python", "Pandas", "NumPy", "JSON",
-                   "File Handling", "CRUD Operations", "Git"]
- 
-    certifications = ["AI & ML - NIELIT", "Python - NIELIT"]
- 
-    fun_fact    = "I debug more than I sleep 🐛"
- 
-me = PriyanshuPatel()
-print(f"Let's connect: github.com/{me.username}")
-```
- 
+<table>
+  <tr>
+    <td>👤 <b>Username</b></td>
+    <td><code>priyanshupatel-tech</code></td>
+    <td>📍 <b>Location</b></td>
+    <td>Uttar Pradesh, India</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>Python Developer & Aspiring Data Analyst</td>
+    <td>🌱 <b>Currently</b></td>
+    <td>Learning Flask, SQL & Data Visualization</td>
+  </tr>
+  <tr>
+    <td>❤️ <b>Passion</b></td>
+    <td>Turning ideas into working Python projects</td>
+    <td>🐛 <b>Fun Fact</b></td>
+    <td>I debug more than I sleep!</td>
+  </tr>
+</table>
 ---
  
-## 🚀 Tech Stack & Tools
+## 🛠️ Skills
  
-### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- 
-### 📊 Data & Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
- 
-### 🛠️ Tools & Platforms
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
 ### 🌱 Currently Learning
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -73,15 +69,16 @@ print(f"Let's connect: github.com/{me.username}")
 | [💸 Expense Tracker](https://github.com/priyanshupatel-tech/Expence_Tracker) | Category-wise expense tracker with persistent storage | Python, JSON |
 | [✂️ Rock Paper Scissors](https://github.com/priyanshupatel-tech/Rock-Paper-Scissors) | CLI game vs computer with live score tracking | Python, Random |
 | [📒 Contact Book](https://github.com/priyanshupatel-tech/Contact_Book-Python-) | Full CRUD contact manager with JSON storage | Python, JSON |
-| [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | ATM system with deposit & withdrawal | Python |
+| [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | PIN-based ATM system with deposit & withdrawal | Python |
 | [📚 Library Management](https://github.com/priyanshupatel-tech/Library_Managment_System) | Book management with search & delete features | Python |
  
 ---
  
 ## 🏅 Certifications
  
-- ✅ **Artificial Intelligence & Machine Learning** — NIELIT (National Institute of Electronics & IT)
-- ✅ **Python Programming** — NIELIT
+![NIELIT AI ML](https://img.shields.io/badge/NIELIT-AI%20%26%20ML%20Certified-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)
+![NIELIT Python](https://img.shields.io/badge/NIELIT-Python%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
 ---
  
 ## 📈 GitHub Stats
@@ -122,6 +119,6 @@ print(f"Let's connect: github.com/{me.username}")
 ---
  
 <p align="center">
-  <i>"Pehle socho, phir likho, phir debug karo — aur phir proud feel karo! 🚀"</i>
+  <i>"Think first, then write, then debug — and then feel proud!" 🚀"</i>
 </p>
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/priyanshupatel-tech)
