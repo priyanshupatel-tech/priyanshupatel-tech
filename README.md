@@ -1,87 +1,127 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
-<h3 align="center">🐍 Aspiring Python Developer | NIELIT AI/ML Certified | Building One Project at a Time</h3>
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Priyanshu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20NIELIT%20AI%2FML%20Certified%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=18)](https://github.com/priyanshupatel-tech)
+ 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshupatel-tech&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshupatel-tech" />
+  <a href="https://github.com/priyanshupatel-tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Developer+%7C+Problem+Solver;📊+Data+Analysis+with+Pandas+%26+NumPy;🚀+Building+One+Project+at+a+Time!" alt="Typing SVG" />
+  </a>
 </p>
-
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **Diploma in Computer Science Engineering**
-- 🏅 Certified in **AI & ML** from **NIELIT (National Institute of Electronics & IT)**
-- 🔭 Currently working on improving my **Python projects** and learning **Data Science**
-- 🌱 Currently learning  **SQL**, and **Data Analysis with Pandas**
-- 💡 I love building real-world CLI tools that solve everyday problems
-- 📍 Based in **Uttar Pradesh, India**
-- 📫 Reach me at: **priyanshupatel.tech@gmail.com**
-
+ 
+## 🧑‍💻 About Me
+ 
+```python
+class PriyanshuPatel:
+    username    = "priyanshupatel-tech"
+    role        = "Python Developer & Aspiring Data Analyst"
+    passion     = "Turning ideas into working Python projects"
+    location    = "Uttar Pradesh, India 📍"
+    currently   = "Learning Flask, SQL & Data Visualization"
+ 
+    skills      = ["Python", "Pandas", "NumPy", "JSON",
+                   "File Handling", "CRUD Operations", "Git"]
+ 
+    certifications = ["AI & ML - NIELIT", "Python - NIELIT"]
+ 
+    fun_fact    = "I debug more than I sleep 🐛"
+ 
+me = PriyanshuPatel()
+print(f"Let's connect: github.com/{me.username}")
+```
+ 
 ---
-
-## 🛠️ Skills & Technologies
-
-**Languages:**
-
+ 
+## 🚀 Tech Stack & Tools
+ 
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Tools & Platforms:**
-
+ 
+### 📊 Data & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ 
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-**Currently Learning:**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ 
+### 🌱 Currently Learning
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+ 
 ---
-
-## 🚀 My Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [💸 Expense Tracker](https://github.com/priyanshupatel-tech/Expence_Tracker) | Track daily expenses with category-wise filtering & JSON storage | Python, JSON |
-| [📚 Library Management System](https://github.com/priyanshupatel-tech/Library_Managment_System) | Manage books with add, search, delete operations | Python, File Handling |
-| [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | Simulates ATM operations — deposit, withdraw, balance check | Python |
-| [🎓 Student Data Analysis](https://github.com/priyanshupatel-tech/Student-Data-Analysis) |Student Data Analysis that reads a student dataset, cleans the data, performs city-wise analysis, and generates a detailed report card — all from a CSV file | Python |
-| [📅 Date Validator](https://github.com/priyanshupatel-tech/Date-Validator-Python) | Validates any date with leap year logic | Python |
-| [📒 Contact Book](https://github.com/priyanshupatel-tech/Contact_Book-Python-) | Full CRUD contact manager with persistent JSON storage | Python, JSON |
-
+ 
+## 🌟 Currently Exploring
+ 
+| 🔍 Area | 📚 What I'm Learning |
+|---------|----------------------|
+| 🌐 Web Development | Flask & Building Web Apps |
+| 📊 Data Analysis | Advanced Pandas & EDA |
+| 🗄️ Database | SQL & SQLite with Python |
+| 🤖 AI/ML | Applying NIELIT concepts in projects |
+ 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshupatel-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatel-tech&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
+ 
+## 🏆 Projects
+ 
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|-----------|----------------|---------|
+| [📊 Student Data Analysis](https://github.com/priyanshupatel-tech/Student-Data-Analysis) | City-wise student report generator with grading system | Python, Pandas, NumPy |
+| [✅ Todo List Manager](https://github.com/priyanshupatel-tech/Todo-List-Python) | Full-featured task manager with priority & status tracking | Python, JSON |
+| [💸 Expense Tracker](https://github.com/priyanshupatel-tech/Expence_Tracker) | Category-wise expense tracker with persistent storage | Python, JSON |
+| [✂️ Rock Paper Scissors](https://github.com/priyanshupatel-tech/Rock-Paper-Scissors) | CLI game vs computer with live score tracking | Python, Random |
+| [📒 Contact Book](https://github.com/priyanshupatel-tech/Contact_Book-Python-) | Full CRUD contact manager with JSON storage | Python, JSON |
+| [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | ATM system with deposit & withdrawal | Python |
+| [📚 Library Management](https://github.com/priyanshupatel-tech/Library_Managment_System) | Book management with search & delete features | Python |
+ 
 ---
-
+ 
 ## 🏅 Certifications
-
-- ✅ **AI & Machine Learning** — NIELIT (National Institute of Electronics & IT)
+ 
+- ✅ **Artificial Intelligence & Machine Learning** — NIELIT (National Institute of Electronics & IT)
 - ✅ **Python Programming** — NIELIT
-
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanshupatel-tech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/priyanshupatel-tech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
+ 
+## 📈 GitHub Stats
+ 
 <p align="center">
-  <i>"Thanks You"</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshupatel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshupatel-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" width="40%" />
+</p>
+---
+ 
+## 📊 Contribution Graph
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel-tech&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/priyanshupatel-tech)
+ 
+---
+ 
+## 🤝 Connect With Me
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshupatel-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/priyanshupatel-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-priyanshupatel--tech-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:priyanshupatel.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshupatel-tech&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+---
+ 
+<p align="center">
+  <i>"Pehle socho, phir likho, phir debug karo — aur phir proud feel karo! 🚀"</i>
+</p>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/priyanshupatel-tech)
