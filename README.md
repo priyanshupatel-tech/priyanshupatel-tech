@@ -61,14 +61,14 @@
  
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|---------|
+| [📚 HR Employees Attrition](https://github.com/priyanshupatel-tech/hr-employee-attrition-eda) | Identified the major factors influencing employee attrition and analyzed patterns showing higher turnover among employees with overtime work and average salary levels.| Python ,Pandas ,NumPy , Matplotlib , EDA ,Data Cleaning ,Data Visualization|
 | [📊 Student Data Analysis](https://github.com/priyanshupatel-tech/Student-Data-Analysis) | City-wise student report generator with grading system | Python, Pandas, NumPy |
 | [✅ Todo List Manager](https://github.com/priyanshupatel-tech/Todo-List-Python) | Full-featured task manager with priority & status tracking | Python, JSON |
 | [💸 Expense Tracker](https://github.com/priyanshupatel-tech/Expence_Tracker) | Category-wise expense tracker with persistent storage | Python, JSON |
 | [✂️ Rock Paper Scissors](https://github.com/priyanshupatel-tech/Rock-Paper-Scissors) | CLI game vs computer with live score tracking | Python, Random |
 | [📒 Contact Book](https://github.com/priyanshupatel-tech/Contact_Book-Python-) | Full CRUD contact manager with JSON storage | Python, JSON |
 | [💳 ATM Simulation](https://github.com/priyanshupatel-tech/ATM_Simulation) | PIN-based ATM system with deposit & withdrawal | Python |
-| [📚 Library Management](https://github.com/priyanshupatel-tech/Library_Managment_System) | Book management with search & delete features | Python |
- 
+
 ---
  
 ## 🏅 Certifications
