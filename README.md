@@ -16,9 +16,9 @@
   </tr>
   <tr>
     <td>💼 <b>Role</b></td>
-    <td>Python Developer & Aspiring Data Analyst</td>
+    <td>Aspiring Data Analyst and Python developer</td>
     <td>🌱 <b>Currently</b></td>
-    <td>Learning SQL & Data Visualization</td>
+    <td>Learning SQL </td>
   </tr>
   <tr>
     <td>❤️ <b>Passion</b></td>
@@ -39,11 +39,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+ 
  
 ### 🌱 Currently Learning
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
- 
+
 ---
  
 ## 🌟 Currently Exploring
