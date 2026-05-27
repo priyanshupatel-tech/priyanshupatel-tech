@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Priyanshu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20NIELIT%20AI%2FML%20Certified%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=18)](https://github.com/priyanshupatel-tech)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Priyanshu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20NIELIT%20AI%2FML%20Certified%20%7C%20Python%20Developer&descAlignY=55&descSize=18)](https://github.com/priyanshupatel-tech)
  
 <p align="center">
   📊 Data Analysis with Pandas & NumPy &nbsp;|&nbsp; 📊 Data Visulaziation with Matplotlib & Seaborn&nbsp;|&nbsp; SQl &nbsp;|&nbsp; 🚀 Building One Project at a Time!
