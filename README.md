@@ -81,11 +81,7 @@
 
 </div>
 
----
 
-## 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel-tech&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a3c5e" width="100%"/>
 
 ---
 
