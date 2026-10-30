@@ -73,11 +73,11 @@
 
 <div align="center">
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshupatel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshupatel-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="165"/>
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatel-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=6" height="165"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanshupatel-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
+<img src="https://streak-stats.demolab.com?user=priyanshupatel-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7&sideLabels=6AD3F7" width="500"/>
 
 </div>
 
@@ -85,7 +85,7 @@
 
 ## 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel-tech&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/priyanshupatel-tech)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel-tech&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a3c5e" width="100%"/>
 
 ---
 
