@@ -10,7 +10,7 @@
 
 | 👤 **Name** | Priyanshu Patel | 📍 **Location** | Azamgarh, Uttar Pradesh |
 |---|---|---|---|
-| 💼 **Goal** | Aspiring Data Analyst | 🎓 **Education** | Diploma in CS&E — Govt. Polytechnic Mau |
+| 💼 **Goal** | Aspiring Data Analyst | 🎓 **Education** | Diploma in CSE — Govt. Polytechnic Mau |
 | ❤️ **Passion** | Turning raw data into meaningful insights | 🐛 **Fun Fact** | I find Insights more than I sleep! |
 
 ---
