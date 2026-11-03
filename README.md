@@ -46,6 +46,7 @@
 | 🗄️ Database | SQL — Joins, Subqueries, Aggregations |
 | 📈 Visualization | Power BI Dashboards |
 | 🤖 AI/ML | Applying NIELIT concepts in projects |
+| 🤖 Major Project | Working on Industry Related Major Projects/Problem |
 
 ---
 
