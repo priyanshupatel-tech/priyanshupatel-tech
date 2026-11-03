@@ -66,7 +66,7 @@
 ## 🏅 Certifications
 
 [![NIELIT Python](https://img.shields.io/badge/NIELIT-Python%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://nielit.gov.in)
-[![NIELIT AI ML](https://img.shields.io/badge/NIELIT-AI%20%26%20ML%20Certified-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)](https://nielit.gov.in)
+[![NIELIT AI ML](https://img.shields.io/badge/NIELIT-AI%20%26%20ML%20Certified-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)]([https://nielit.gov.in](https://github.com/priyanshupatel-tech/priyanshupatel-tech/blob/52f3add677901c2aee0537563b1111b2174fca29/Ai%20ML%20Nielit%20Certificate.pdf))
 
 ---
 
